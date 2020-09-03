@@ -5,7 +5,11 @@
 About: Use the life expectancy dataset from the World Health Organization to analyze several variables and predict life expectancy.
 
 Highlights:
+
   -Exploratory Data Analysis 
+  
   -Data Cleaning and Transformation
+  
   -Feature Engineering and Feature Selection
+  
   -Model tuning and comparisons
