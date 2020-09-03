@@ -1,10 +1,10 @@
 # Can Ngo Portfolio
 
-# [Analyzing and Predicting Life Expectancy](https://github.com/Cngo2019/Life-Expectancy)
+# [Analyzing and Predicting Life Expectancy with Multiple Linear Regression](https://github.com/Cngo2019/Life-Expectancy)
 
 About: Use the life expectancy dataset from the World Health Organization to analyze several variables and predict life expectancy.
 
-Highlights:
+#### Highlights:
 
   -Exploratory Data Analysis 
   
