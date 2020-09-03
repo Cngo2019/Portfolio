@@ -4,7 +4,7 @@
 
 About: Use the life expectancy dataset from the World Health Organization to analyze several variables and predict life expectancy.
 
-#### Highlights:
+#### Project includes:
 
   -Exploratory Data Analysis 
   
