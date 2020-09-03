@@ -3,15 +3,13 @@ Life Expectancy using Multiple Linear Regression:
 https://github.com/Cngo2019/Life-Expectancy
 
 About: Use the World Health Organization's life expectancy dataset containing economic, social, and health factors to analyze the relationship between independent variables
-and life expectancy and predict the life expectancy using multiple linear regression in R. Try out different feature engeering and feature selection techniques to determine impacts on the model. 
+and life expectancy and predict the life expectancy using multiple linear regression in R. 
+Try out different feature engeering and feature selection techniques to determine impacts on the model. 
 
 Highlights:
   - Exploratory Data Analysis
-  
   - Data cleaning and transformation
-  
   - Feature Engineering
-  
   - Model tuning and comparing
 
 
