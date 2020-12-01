@@ -4,6 +4,9 @@
 
 About: Use the life expectancy dataset from the World Health Organization to analyze several variables and predict life expectancy.
 
+#[Click To View Notebook](https://nbviewer.jupyter.org/github/Cngo2019/Life-Expectancy/blob/master/Life%20Expectancy%20Predictive%20Analysis%20%281%29.ipynb)
+
+
 #### Project includes:
 
   -Exploratory Data Analysis 
