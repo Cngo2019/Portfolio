@@ -1,6 +1,6 @@
 # Can Ngo Portfolio
 
-# [Analyzing and Predicting Life Expectancy with Multiple Linear Regression]
+# Analyzing and Predicting Life Expectancy with Multiple Linear Regression
 
 About: Use the life expectancy dataset from the World Health Organization to analyze several variables and predict life expectancy.
 
